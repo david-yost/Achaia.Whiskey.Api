@@ -1,0 +1,6 @@
+@Achaia.Whiskey.Api_HostAddress = http://localhost:5148
+
+GET {{Achaia.Whiskey.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
